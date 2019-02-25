@@ -47,6 +47,7 @@ public class logintest {
 	{
 	login l=new login(this.w);
 	l.loginfb("pathanhaseena758@gmail.com","hello@1234");
+		System.out.println("hello pulling is working");
 
 }
 	@AfterMethod
